@@ -1,5 +1,5 @@
 module.exports = {
-    mongoURI: 'mongodb://194.67.108.219:27017',
+    mongoURI: 'mongodb://127.0.0.1:27017',
     jwtSecret: '5B34C0874DC93FCC390E40FF617B4AB12271DDBA64C7F2A833FDB64BF78F7AA1',
     stripeSecret: 'pk_test_51HjCrpEbteUUuPkN7lgPzkmBTgOoxt2YLVfHHtSiYsW9iOqY1P0NoJ9s9KdHEBqYc19dVhjhOR7GBdZlKGHmabeb00GfEunSRk',
     endpointSecret: '',
